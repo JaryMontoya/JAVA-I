@@ -1,7 +1,7 @@
 package B5;
 
-public class EjercicioCatch {
-    public static void main(String[] args) {
+public class EjercicioCatch {}
+    /*public static void main(String[] args) {
 
 
         try {
@@ -22,4 +22,4 @@ public class EjercicioCatch {
     public static int dividir(int numerador, int denominador) {
         return numerador / denominador;
     }
-}
+}*/
